@@ -1,6 +1,6 @@
 # Salary-prediction
 
-The web app is deployed at
+The web app is deployed at https://salary-prediction-7unxbku67znojal8wyyur5.streamlit.app/
 
 ## Screenshot of webapp
 ![Home](./screenshot/pic.png)
